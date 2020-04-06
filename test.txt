@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-test text gg
-=======
 test text
 ПРивет
->>>>>>> 75982a2e2a8bdb3b87f3c11c817e54fc488d8fc6
+
